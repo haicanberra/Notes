@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "e59546a1145dc413",
+        "id": "03bfdf042989e08a",
         "type": "tabs",
         "children": [
           {
-            "id": "053b218afbd4e91f",
+            "id": "594612d2b9f60629",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Worked on/Chaotic Multiple-image Encryption and Individual-image Decryption with FPGA Implementation.md",
+                "file": "Books Notes/Networks - An Introduction (M.E.J Newman).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b5408d10f85284a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books Notes/Linear Algebra.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Worked on/Chaotic Multiple-image Encryption and Individual-image Decryption with FPGA Implementation.md",
+                "file": "Books Notes/Linear Algebra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Worked on/Chaotic Multiple-image Encryption and Individual-image Decryption with FPGA Implementation.md",
+                "file": "Books Notes/Linear Algebra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Worked on/Chaotic Multiple-image Encryption and Individual-image Decryption with FPGA Implementation.md"
+                "file": "Books Notes/Linear Algebra.md"
               }
             }
           }
@@ -146,14 +159,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "053b218afbd4e91f",
+  "active": "b5408d10f85284a7",
   "lastOpenFiles": [
+    "Books Notes/Networks - An Introduction (M.E.J Newman).md",
+    "Books Notes/Linear Algebra.md",
+    "Books Notes/Network Science (Albert).md",
+    "Read Articles/Links.md",
     "Network/Network.md",
-    "Network/Pasted image 20240519034207.png",
-    "Worked on/Chaotic Multiple-image Encryption and Individual-image Decryption with FPGA Implementation.md",
+    "Books Notes",
+    "README.md",
+    "Researches/Brain thingy/Resources.md",
+    "Network/img/Pasted image 20240519034207.png",
+    "Network/img",
+    "Researches/Image encryption/Untitled.md",
+    "Researches/Image encryption/Chaotic Multiple-image Encryption and Individual-image Decryption with FPGA Implementation.md",
+    "Researches/Brain thingy/Untitled.md",
+    "Researches/Brain thingy",
+    "Researches/Image encryption",
     "Read Articles",
-    "Worked on",
-    "Network/Pasted image 20240519034405.png",
+    "Researches",
+    "Network/img/Pasted image 20240519034405.png",
     "Network",
     "create a link.md"
   ]
